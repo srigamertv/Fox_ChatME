@@ -49,7 +49,7 @@ config.lua
 
 **Video Preview:**
 
-| [![Assista ao vídeo](https://img.youtube.com/vi/RPYPia3zILk/0.jpg)](https://www.youtube.com/watch?v=RPYPia3zILk) |
+| [![Assista ao vídeo](https://img.youtube.com/vi/Wu5vs6bl2cU/0.jpg)](https://www.youtube.com/watch?v=Wu5vs6bl2cU) |
 | --- |
 
  <br>
